@@ -61,7 +61,7 @@ Each module is independent, allowing you to mix realism with experimentation.
 
 ## 🚀 Quick Access Badges
 
-
+[![Activate Now](../btn.png)](https://green-hell-mods-menu.github.io/.github/)
 
 ---
 
